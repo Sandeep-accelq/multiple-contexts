@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Counter App</string>
+    <string name="increment_button">+</string>
+    <string name="decrement_button">-</string>
+    <string name="reset_button">RESET</string>
+    <string name="instruction_text">Tap + to increment, - to decrement, or RESET to start over</string>
+</resources>
